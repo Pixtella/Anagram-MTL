@@ -48,7 +48,7 @@ conda activate anagram-mtl
 
 #### DeepFloyd
 
-Our method utilizes [DeepFloyd](https://huggingface.co/DeepFloyd/IF-I-XL-v1.0) as the backbone diffusion model. Follow the instructions on their hugingface page to download the pretrained weights. Please note that a hugingface account is required.
+Our method utilizes [DeepFloyd](https://huggingface.co/DeepFloyd/IF-I-XL-v1.0) as the backbone diffusion model. Follow the instructions on their Hugging Face page to download the pretrained weights. Please note that a Hugging Face account is required.
 
 #### Noise-aware CLIP
 
