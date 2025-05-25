@@ -89,11 +89,13 @@ generate_anagram(style='a charcoal drawing of',
 If you find this repository helpful, please consider citing our paper:
 
 ```bibtex
-@article{xu2024diffusion,
-  title={Diffusion-based Visual Anagram as Multi-task Learning},
+@inproceedings{xu2025diffusion,
+  title={Diffusion-based visual anagram as multi-task learning},
   author={Xu, Zhiyuan and Chen, Yinhe and Gao, Huan-ang and Zhao, Weiyan and Zhang, Guiyu and Zhao, Hao},
-  journal={arXiv preprint arXiv:2412.02693},
-  year={2024}
+  booktitle={2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  pages={919--928},
+  year={2025},
+  organization={IEEE}
 }
 ```
 
